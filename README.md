@@ -1,2 +1,7 @@
 # CODSOFT
-This personal portfolio website is a self-developed project aimed at enhancing my skills in HTML, CSS, and Bootstrap. The website showcases my academic background, technical expertise, live projects, internship experiences, and achievements. Designed with a clean and responsive layout, the site demonstrates my ability to create user-friendly interfaces using modern front-end technologies. Through this project, I gained practical experience in website structuring, responsive design, and visual aesthetics, which helped strengthen my understanding of front-end development.
+TASK 1: PORTFOLIO
+Personal Portfolio Website built using HTML, CSS, and Bootstrap showcases my projects, skills, and contact information in a clean, responsive layout. It features smooth navigation, a project gallery, and a professional design to highlight my work effectively.
+
+TASK 2: LANDING PAGE 
+IronPulse Gym Landing Page is a modern, responsive one-page website built using HTML, CSS, and Bootstrap. It features a bold hero section with a strong CTA, showcases key benefits like expert trainers and 24/7 access, and builds trust with real member testimonials — all designed to drive user sign-ups effectively.
+
